@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zainBondoq
+- 👋 Hi, I’m Zain Bondoq
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning php 
 - 📫 you can reach me at bondoqzain@gmail.com
