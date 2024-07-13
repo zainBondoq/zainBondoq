@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zainBondoq
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning php 
-- 📫 How to reach me bondoqzain@gmail.com
+- 📫 you can reach me at bondoqzain@gmail.com
 
 
 <!---
